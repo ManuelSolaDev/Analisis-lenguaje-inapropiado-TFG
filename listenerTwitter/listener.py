@@ -1,6 +1,6 @@
 import sys 
 import json
-import tweepy
+#import tweepy
 
 # x = {
 #    "sum": int(sys.argv[1]) + int(sys.argv[2]) 
